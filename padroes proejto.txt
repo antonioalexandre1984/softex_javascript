@@ -1,0 +1,23 @@
+Padrões de projeto são soluções para problemas comuns de desenvolvimento de software que já foram testadas e validadas pela indústria. Eles ajudam os desenvolvedores a criar softwares mais eficientes, legíveis, manuteníveis e escaláveis. Um dos padrões de projeto mais conhecidos é o padrão de projeto Factory Method.
+
+O Factory Method é um padrão de projeto criacional que define uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objeto que será criado. Em outras palavras, ele permite que uma classe delegue a responsabilidade de criar objetos para suas subclasses.
+
+Funcionamento:
+
+Uma superclasse define um método factory que retorna um objeto da classe, que pode ser uma das várias subclasses.
+Cada subclasse implementa o método factory para criar um objeto da própria classe.
+O cliente usa o método factory da superclasse para criar o objeto, sem conhecer a classe real que está sendo instanciada.
+Vantagens:
+
+Abstrai a criação de objetos, tornando o código mais modular e flexível.
+Permite a adição de novas classes de produtos sem afetar o código existente.
+Facilita a implementação do princípio de aberto/fechado (open/closed principle) do SOLID, que defende que as classes devem estar abertas para extensão e fechadas para modificação.
+Possibilita o uso de classes abstratas ou interfaces para definir a interface da fábrica, o que ajuda a manter o código coeso e desacoplado.
+Desvantagens:
+
+Pode aumentar a complexidade do código, especialmente quando há muitas subclasses e a lógica de criação é complexa.
+Pode aumentar a quantidade de classes no sistema.
+Referências:
+
+Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). Design patterns: elements of reusable object-oriented software. Addison-Wesley.
+Freeman, E., & Robson, E. (2004). Head first design patterns: a brain-friendly guide. O'Reilly Media, Inc.
