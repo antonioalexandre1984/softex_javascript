@@ -1,0 +1,10 @@
+Três exemplos de dados utilizados no cotidiano são:
+
+Termômetro - é utilizado para medir a temperatura do ambiente ou do corpo humano.
+GPS - é utilizado para determinar a localização geográfica de um objeto ou pessoa.
+Contador de passos - é utilizado para contar o número de passos dados durante uma caminhada ou atividade física.
+Três exemplos de dados na internet que são usados são:
+
+Criação de um perfil em rede social - ao criar um perfil em uma rede social, o usuário fornece dados pessoais, como nome, data de nascimento e interesses, que são armazenados e utilizados para personalizar a experiência do usuário e oferecer anúncios direcionados.
+Compra em loja virtual - ao realizar uma compra em uma loja virtual, o usuário fornece informações de pagamento, endereço de entrega e histórico de compras, que são armazenados e utilizados para gerenciar pedidos, processar pagamentos e oferecer sugestões de produtos.
+Pesquisa no Google - ao realizar uma pesquisa no Google, o usuário fornece termos de busca, que são armazenados e utilizados para personalizar resultados de busca e oferecer anúncios direcionados.

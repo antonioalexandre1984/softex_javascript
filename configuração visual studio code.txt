@@ -1,0 +1,13 @@
+Para exemplificar como configurar o ambiente de desenvolvimento para JavaScript usando o Visual Studio Code, siga as etapas abaixo:
+
+Baixe e instale o Visual Studio Code no seu computador a partir do site oficial: https://code.visualstudio.com/download.
+
+Abra o VS Code e instale a extensão "JavaScript" clicando no ícone de extensões no painel lateral esquerdo e pesquisando por "JavaScript".
+
+Crie um novo arquivo JavaScript clicando em "File" e em seguida em "New File" no menu superior do VS Code. Salve o arquivo com a extensão ".js".
+
+Comece a escrever seu código JavaScript no arquivo recém-criado.
+
+Utilize recursos do VS Code para facilitar o desenvolvimento, como sugestões de código, formatação automática, depuração de código e integração com o Git.
+
+O Visual Studio Code é uma opção popular para desenvolvedores JavaScript devido à sua interface intuitiva, recursos avançados e integração com uma grande variedade de extensões. Além disso, o VS Code é uma opção gratuita e de código aberto, tornando-o acessível a desenvolvedores em qualquer lugar.
